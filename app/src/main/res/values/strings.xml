@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gandalf</string>
+
+    <string name="button_open_the_door">Open</string>
+    <string name="button_sign_out">Sign out</string>
+
+    <string name="message_error_google">Google sign in exception</string>
+    <string name="message_error_silent_signin">Google failed to silently sign in. Try to resign.</string>
+    <string name="message_error_login">Failed to log in into google</string>
+    <string name="message_error_REST">REST call failed</string>
+    <string name="message_error_REST_time">Invalid time from server, resuming scan</string>
+
+    <string name="REST_response_OK">Response OK</string>
+
+
+</resources>
