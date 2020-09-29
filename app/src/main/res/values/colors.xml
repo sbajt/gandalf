@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#436ea6</color>
+    <color name="colorPrimaryDark">#0f1a28</color>
+    <color name="colorAccent">#ffcc24</color>
+
+    <color name="bgMountains">#203551</color>
+    <color name="openTheDoorView">#ffcc24</color>
+    <color name="openTheDoorViewActive">#b3ffcc24</color>
+    <color name="bgProgress">#0f1a28</color>
+    <color name="progress">#FF416BA3</color>
+    <color name="progressText">#0f1a28</color>
+</resources>
